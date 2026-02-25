@@ -75,3 +75,4 @@ with open('punti.txt', 'w', encoding="utf-8") as f: #apro in scrittura
 
 
 
+#funziona
